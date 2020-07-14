@@ -1,0 +1,8 @@
+$primary: #6c26b1;
+$secondary: #537190;
+
+@import 'style';
+@import 'utilities';
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/swiper/swiper.scss";
